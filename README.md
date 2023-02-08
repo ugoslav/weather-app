@@ -1,4 +1,4 @@
-Deployed Site - <a href="w3eth3rapp.netlify.app">here</a>
+Deployed Site - w3eth3rapp.netlify.app
 
 # Getting Started with Create React App
 
